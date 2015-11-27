@@ -1,4 +1,10 @@
-# Exi Training
+# EXI Training
+
+![Dimagi](https://media.licdn.com/media/p/5/005/030/05b/133f72a.png)
+
++
+
+![EXI Logo](https://media.licdn.com/media/p/2/000/037/19b/32d4bf7.png)
 
 ## Agenda
 
