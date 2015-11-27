@@ -1,4 +1,6 @@
-# Agenda
+# Exi Training
+
+## Agenda
 
 #### Day 1
 
@@ -29,3 +31,8 @@ Ben's briefing  | - | 9:30 AM - 10:00 AM | -
 Topic | Details | Time | Resources
 ------------- | ------------- | ------------- | ------------
 Ben's briefing  | - | 9:30 AM - 10:00 AM | -
+
+## Contact
+
+Ben Rudolph
+Marco Horta
