@@ -24,27 +24,48 @@ Case Management | Basics and Advanced | 3:00 PM - 4:15 PM | [Case Management](ht
 
 Topic | Details | Time | Resources
 ------------- | ------------- | ------------- | ------------
-Ben's briefing  | - | 9:30 AM - 10:00 AM | -
+Warm up/Ice breaker | - | 9:30 AM - 10:00 AM | [Euler](https://projecteuler.net/problem=17)
+Review | - | 10:00 AM - 10:15 AM | -
+User as a case | Learn about user as a case | 10:15 AM - 10:45 AM | [User case](https://confluence.dimagi.com/display/commcarepublic/User+Case)
+Break  | - | 11:00 AM - 11:15 AM | -
+GPS | - | 11:15 AM - 12:00 PM | [Auto GPS Capture](https://confluence.dimagi.com/display/commcarepublic/Automatic+GPS+Capture) [Using GPS data](https://confluence.dimagi.com/display/commcarepublic/Using+GPS+Data) [GPS Limitations](https://confluence.dimagi.com/display/commcarepublic/GPS+Limitations)
+Lunch | - | 12:00 PM - 1:00 PM | -
+CommCareHQ APIs | Read and posting commcare apis | 1:00 PM - 1:45 PM | [HQ APIs](https://confluence.dimagi.com/display/commcarepublic/CommCare+HQ+APIs)
+Data Forwarding | Post case and form data to other URL | 1:45 PM - 2:15 PM | [Data Forwarding](https://confluence.dimagi.com/pages/viewpage.action?pageId=12224128)
+Work on small app with data APIs | - | 2:15 PM - 4:00 PM | -
 
 #### Day 3
 
 Topic | Details | Time | Resources
 ------------- | ------------- | ------------- | ------------
-Ben's briefing  | - | 9:30 AM - 10:00 AM | -
+Warm up/Ice breaker | - | 9:30 AM - 10:00 AM | [Euler](https://projecteuler.net/problem=24)
+Review | - | 10:00 AM - 10:15 AM | -
+EXI App Design | - | 10:15 AM - 11:15 AM | -
+Break | - | 11:15 AM - 11:30 AM | -
+EXI App Design | - | 10:15 AM - 11:15 AM | -
+Lunch | - | 12:00 PM - 1:00 PM | -
+Review database and requirements for integration | - | 1:00 PM - 2:00 PM | -
+Work on integration | - | 2:00 PM - 5:00 PM | -
 
 #### Day 4
 
 Topic | Details | Time | Resources
 ------------- | ------------- | ------------- | ------------
-Ben's briefing  | - | 9:30 AM - 10:00 AM | -
+Warm up/Ice breaker | - | 9:30 AM - 10:00 AM | [Euler](https://projecteuler.net/problem=43)
+Review | - | 10:00 AM - 10:15 AM | -
+Manipulating Data | Case reassign and other data operations | 10:15 AM - 11:00 AM | -
+Break  | - | 11:00 AM - 11:15 AM | -
+Custom Reporting | - | 11:15 AM - 12:00 PM | [UCR Docs](https://github.com/dimagi/commcare-hq/blob/master/corehq/apps/userreports/README.md)
+Lunch | - | 12:00 PM - 1:00 PM | -
+Cloudcare | Introduce cloudcare and debugging | 1:00 PM - 1:30 PM | -
+Work on EXI app | - | 1:30 PM - 5:00 PM | -
 
 #### Day 5
 
-Topic | Details | Time | Resources
-------------- | ------------- | ------------- | ------------
-Ben's briefing  | - | 9:30 AM - 10:00 AM | -
+TBD
 
 ## Contact
 
 Ben Rudolph
+
 Marco Horta
