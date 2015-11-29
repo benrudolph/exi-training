@@ -19,6 +19,7 @@ Phone project | Introduce phone project | 1:00 PM - 1:45 PM | -
 Form Builder | Go over basic and advanced form builder | 1:45 PM - 2:30 PM | [Basics](https://confluence.dimagi.com/display/commcarepublic/Application+Building+Learning+Track#ApplicationBuildingLearningTrack-FormBuilderBasics) [Advanced](https://confluence.dimagi.com/display/commcarepublic/Application+Building+Learning+Track#ApplicationBuildingLearningTrack-AdvancedFormBuilder)
 Build Forms | Work on forms in app | 2:30 PM - 3:00 PM | -
 Case Management | Basics and Advanced | 3:00 PM - 4:15 PM | [Case Management](https://confluence.dimagi.com/display/commcarepublic/Application+Building+Learning+Track#ApplicationBuildingLearningTrack-CaseManagement)
+Lookup Tables (tentative) | - | 4:15 PM - 5:00 PM | [Lookup Tables](https://help.commcarehq.org/display/commcarepublic/Lookup+Tables)
 
 #### Day 2
 
