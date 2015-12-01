@@ -29,9 +29,10 @@ Warm up/Ice breaker | - | 9:30 AM - 10:00 AM | Yes Let's! [Euler](https://projec
 Review/Finish cases (case sharing) | True/False | 10:00 AM - 10:15 AM | -
 User as a case | Learn about user as a case | 10:15 AM - 10:45 AM | [User case](https://confluence.dimagi.com/display/commcarepublic/User+Case)
 Break  | - | 11:00 AM - 11:15 AM | -
-GPS + Area Mapper | - | 11:15 AM - 12:00 PM | [Auto GPS Capture](https://confluence.dimagi.com/display/commcarepublic/Automatic+GPS+Capture) [Using GPS data](https://confluence.dimagi.com/display/commcarepublic/Using+GPS+Data) [GPS Limitations](https://confluence.dimagi.com/display/commcarepublic/GPS+Limitations)
+GPS | - | 11:15 AM - 12:00 PM | [Auto GPS Capture](https://confluence.dimagi.com/display/commcarepublic/Automatic+GPS+Capture) [Using GPS data](https://confluence.dimagi.com/display/commcarepublic/Using+GPS+Data) [GPS Limitations](https://confluence.dimagi.com/display/commcarepublic/GPS+Limitations)
 Lunch | - | 12:00 PM - 1:00 PM | -
-Organizations | - | 1:00 PM - 1:45 PM | [Organizations](https://confluence.dimagi.com/display/commcarepublic/Organizations)
+Form and Module filtering | - | 1:00 PM - 1:45 PM | -
+(dont do) Organizations | - | 1:00 PM - 1:45 PM | [Organizations](https://confluence.dimagi.com/display/commcarepublic/Organizations)
 CommCareHQ APIs | Read and posting commcare apis | 1:00 PM - 1:45 PM | [HQ APIs](https://confluence.dimagi.com/display/commcarepublic/CommCare+HQ+APIs)
 Data Forwarding | Post case and form data to other URL | 1:45 PM - 2:15 PM | [Data Forwarding](https://confluence.dimagi.com/pages/viewpage.action?pageId=12224128)
 Work on small app with data APIs | - | 2:15 PM - 4:00 PM | -
